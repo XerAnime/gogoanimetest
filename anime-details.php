@@ -103,7 +103,7 @@ $episodeArray = $fetchDetails['episode_id'];
        <div class="clr"></div>
     <div class="clr"></div>
               <div class="anime_info_body">
-                <script id="dsq-count-scr" src="//gogoanimetv.disqus.com/count.js" async></script>
+                <script id="dsq-count-scr" src="//animxer-5.disqus.com/count.js" async></script>
                 <div class="anime_video_body_comment_name">
                   <div class="btm-center">
                     <div id="specialButton" class="specialButton">
@@ -120,7 +120,7 @@ $episodeArray = $fetchDetails['episode_id'];
                   (function () {  // DON'T EDIT BELOW THIS LINE
                     var d = document, s = d.createElement('script');
 
-                    s.src = '//gogoanimetv.disqus.com/embed.js';
+                    s.src = '//animxer-5.disqus.com/embed.js';
 
                     s.setAttribute('data-timestamp', +new Date());
                     (d.head || d.body).appendChild(s);
