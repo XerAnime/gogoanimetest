@@ -148,7 +148,7 @@ $episodeArray = $fetchDetails['episode_id'];
                                         <li class="anime">
                                             <a href="#" class="active" rel="1"
                                                 data-video="https://player.ryuk.to/index.php?id=<?=$url?>&download=<?=$anime['ep_download']?>"><i
-                                                    class="iconlayer-server hydrax"></i>No Ads<span>Choose this
+                                                    class="iconlayer-server hydrax"></i>ANIMXER Server<span>Choose this
                                                     server</span></a>
                                         </li>
                                         <li class="anime">
